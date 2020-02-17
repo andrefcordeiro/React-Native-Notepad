@@ -5,7 +5,7 @@ Um bloco de notas desenvolvido em React Native
 react-native init BlocoDeNotas
 
 
-Libs necessárioas para a execução do projeto:
+Libs necessárias para a execução do projeto:
 - Async Storage
   INSTALAÇÃO:           
         • < yarn add @react-native-community/async-storage > na pasta do projeto
