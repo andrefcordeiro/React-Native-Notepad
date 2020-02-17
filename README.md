@@ -2,7 +2,7 @@
 Um bloco de notas desenvolvido em React Native
 
 
-react-native init BlocoDeNotas
+        < react-native init BlocoDeNotas >
 
 
 Libs necessárias para a execução do projeto:
