@@ -6,7 +6,7 @@ Um bloco de notas desenvolvido em React Native
 
 
 Libs necessárias para a execução do projeto:
-- Async Storage
+Async Storage
 INSTALAÇÃO:      
 na pasta do projeto execute:
  
