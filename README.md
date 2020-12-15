@@ -1,11 +1,11 @@
-# React Native Notepad
+# :spiral_notepad: React Native Notepad
 A simple Notepad created using React Native
 
 ## Setup instructions
 ### Cloning the project
     
 ``` 
-git clone https://github.com/andrefcordeiro/Cronometro-React-Native.git
+git clone https://github.com/andrefcordeiro/React-Native-Notepad.git
 ```
 
 ### Installing dependencies
