@@ -1,20 +1,23 @@
-# Bloco-de-Notas-em-React
-Um bloco de notas desenvolvido em React Native
+# React Native Notepad
+A simple Notepad created using React Native
 
+## Setup instructions
+### Cloning the project
+    
+``` 
+git clone https://github.com/andrefcordeiro/Cronometro-React-Native.git
+```
 
-        < react-native init BlocoDeNotas >
+### Installing dependencies
+```
+npm install
+yarn add @react-native-community/async-storage
+```
 
+### Starting the app
+   
+```
+react-native run-android
+```
 
-Libs necessárias para a execução do projeto:
- - Async Storage
- 
- INSTALAÇÃO:   
- 
- - na pasta do projeto execute:
- 
-         < yarn add @react-native-community/async-storage > 
-           
- - CASO O REACT NÃO FAÇA O LINK AUTOMÁTICO, execute: 
-
-        < react-native link @react-native-community/async-storage >.
 
