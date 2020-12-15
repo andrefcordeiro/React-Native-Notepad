@@ -1,0 +1,12 @@
+{
+  "name": "BlocoDeNotasReactNative",
+  "displayName": "BlocoDeNotasReactNative",
+  "expo": {
+    "name": "BlocoDeNotasReactNative",
+    "slug": "BlocoDeNotasReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
